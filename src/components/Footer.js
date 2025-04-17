@@ -100,7 +100,7 @@ export default function Footer() {
               color: GLOBAL_COLOR.pink1,
             }}
           >
-            KalaTek
+            Company name
           </Text>
         </Flex>
       </Flex>
